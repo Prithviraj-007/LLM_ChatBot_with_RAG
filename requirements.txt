@@ -1,0 +1,6 @@
+langchain
+chromadb # Vector storage
+openai # For embeddings
+chainlit
+bs4
+tiktoken
